@@ -16,7 +16,7 @@ var DEFAULT_INIT;
 /*          Settings           */
 /*******************************/
 //var api_url = "http://localhost/API_Hacienda/www/api.php";
-var api_url = "https://api-demo.crlibre.org/api.php";
+var api_url = "http://localhost:8080/api.php";
 //var api_url = "http://192.168.0.118/API_Hacienda/www/api.php";
 var api_front = "index.html";
 var api_user = "";
